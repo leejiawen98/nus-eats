@@ -22,7 +22,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.orbital.nuseats"
+    },
+    "description": ""
   }
 }
