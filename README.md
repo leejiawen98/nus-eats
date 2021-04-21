@@ -11,5 +11,5 @@ Pointers:
 This project can be tested using the Expo Go app found in the App Store.
 This project uses Firebase for data storage. 
 
-This project also features a React web application that is exclusively for Admins to manage the data (e.g. adding food stalls).
+This project also features a React web application that is exclusively for Admins to manage the data (e.g. adding food stalls). It can be found here: https://github.com/leejiawen98/nus-eats-web
 
