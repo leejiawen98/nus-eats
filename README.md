@@ -1,4 +1,4 @@
-# nus-eats
+# NUSeats
 NUS Orbital - A React IOS mobile application for finding and discovering eateries at NUS!  
 
 Features a map that identifies the nearby eateries around you, a rating system that allows users to leave review for their favourite stalls and a leaderboard
